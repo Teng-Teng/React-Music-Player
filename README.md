@@ -8,7 +8,7 @@ This is a music player build with `react`, because some states need to be shared
 ### Usage
 ```bash
 # Download the code
-git clone https://github.com/junhey/React-Music-Player.git
+git clone https://github.com/jackottawa/React-Music-Player.git
 # Go to project directory and install dependencies
 cd React-Music-Player && npm install
 # Run preview
